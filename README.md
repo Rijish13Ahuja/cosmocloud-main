@@ -23,7 +23,6 @@ The Library Management System is a backend API developed using FastAPI and Mongo
 
    ```bash
    git clone <repository_url>
-   cd library-management-system
    ```
 
 Sure, here is the content formatted as requested:
